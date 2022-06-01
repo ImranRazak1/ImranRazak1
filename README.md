@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ImranRazak1
 - 👀 I’m interested in Apple and Startups. 
 - 🌱 Learning something new everday.
+- 👨‍💻 Looking for a role as Junior iOS Engineer.
 
 <!---
 ImranRazak1/ImranRazak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
