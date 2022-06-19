@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ImranRazak1
 - 👀 I’m interested in Apple and Startups. 
 - 🌱 Learning something new everday.
+- 👉Currently learning C++ and UIKit. 
+- 🎉Know Swift, SwiftUI, xCode.
 - 👨‍💻 Looking for a role as Junior iOS Engineer.
 
 <!---
