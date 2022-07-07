@@ -2,7 +2,7 @@
 - 👀 I’m interested in Apple and Startups. 
 - 🌱 Learning something new everday.
 - 👉Currently learning C++ and UIKit. 
-- 🎉Know Swift, SwiftUI, xCode.
+- 🎉Know Swift, SwiftUI, Xcode.
 - 👨‍💻 Looking for a role as Junior iOS Engineer.
 
 <!---
