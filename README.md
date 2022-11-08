@@ -51,10 +51,8 @@ Working with customers for so many years has given me a depth of experience that
 
 
 # Some of my work
-![Temp-500x1000-5](https://user-images.githubusercontent.com/77019152/200572126-9b52286f-18b4-4b3c-83cd-73b1df4933d3.jpg)
-![Temp-500x1000](https://user-images.githubusercontent.com/77019152/200572153-b63bcbdb-c7de-4342-9a9f-0345c770418b.jpg)
-![Temp-500x1000-7](https://user-images.githubusercontent.com/77019152/200572194-9795c23c-c49a-4e5d-b57f-2e6e9513d10f.jpg)
-![Temp-500x1000-10](https://user-images.githubusercontent.com/77019152/200572207-cafd45a9-7b91-4cc0-8058-914a14c45cb0.jpg)
+<img width="871" alt="Screenshot 2022-11-08 at 13 06 40" src="https://user-images.githubusercontent.com/77019152/200572686-0555de85-be9b-4b3b-b559-f01a25953c27.png">
+
 
 <!---
 ImranRazak1/ImranRazak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
