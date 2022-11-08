@@ -8,6 +8,8 @@ But now that I have the skills I need, there are so many different directions I 
 
 --
 Some Highlights of my Skills:
+--
+
 - xCode
 - Swift
 - SwiftUI
@@ -18,7 +20,7 @@ Some Highlights of my Skills:
 
 --
 Checkout my resume and career jounrey 👉 www.linkedin.com/in/iamirazak
-
+--
 
 <!---
 ImranRazak1/ImranRazak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
