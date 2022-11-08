@@ -16,6 +16,9 @@ Some Highlights of my Skills:
 - AWS S3
 - Figma
 
+--
+Checkout my resume and career jounrey 👉 www.linkedin.com/in/iamirazak
+
 
 <!---
 ImranRazak1/ImranRazak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
