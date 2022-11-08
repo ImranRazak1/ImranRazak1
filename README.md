@@ -47,6 +47,15 @@ An avid Apple user who can utilise my skill to get around the eco-system quite e
 
 ### Customer Centric
 Working with customers for so many years has given me a depth of experience that I can bring to a new workplace to always think like the customer and to keep innovating as such based on their needs rather than wants.
+
+
+
+# Some of my work
+![Temp-500x1000-5](https://user-images.githubusercontent.com/77019152/200572126-9b52286f-18b4-4b3c-83cd-73b1df4933d3.jpg)
+![Temp-500x1000](https://user-images.githubusercontent.com/77019152/200572153-b63bcbdb-c7de-4342-9a9f-0345c770418b.jpg)
+![Temp-500x1000-7](https://user-images.githubusercontent.com/77019152/200572194-9795c23c-c49a-4e5d-b57f-2e6e9513d10f.jpg)
+![Temp-500x1000-10](https://user-images.githubusercontent.com/77019152/200572207-cafd45a9-7b91-4cc0-8058-914a14c45cb0.jpg)
+
 <!---
 ImranRazak1/ImranRazak1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
